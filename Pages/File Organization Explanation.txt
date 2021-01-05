@@ -1,0 +1,1 @@
+The way that the pages and image folders are stored are because of the way that the information needs to be kept on "PageDNA". You cannot "make your own" pages normally, though you can upload HTML to their "con" directory, the "base" of their website is before "con". You cannot upload scss files.
